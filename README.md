@@ -3,7 +3,7 @@
 A minimal, aesthetic bedside clock built with an ESP-01 and OLED display.  
 Time Brick shows the current time, date, weather, and a rotating set of Stanley Parable-inspired quotes — all in a tiny translucent micro bricks enclosure.
 
-![Time Brick](https://mar1ash.pp.ua/assets/images/time-brick01.jpg)
+![Time Brick](https://mar1ash.pp.ua/images/time-brick01.jpg)
 
 ---
 
